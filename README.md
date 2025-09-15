@@ -53,12 +53,12 @@ This full stack appointment booking system can be used by a doctor or a hospital
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Gopikrishna-05/FOREVER.git
+   git clone https://github.com/Gopikrishna-05/PRESCRIPTO.git
 
 2.  **Navigate to the project directory**   
     ```bash  
     
-     cd FOREVER  
+     cd PRESCRIPTO  
 
 3. **Install dependencies for frontend, backend and admin**  
     ```bash
@@ -113,7 +113,7 @@ To deploy the project on Vercel:
 
 ## Contributors  
 
-Gopi Krishna - [Github Profile](https://github.com/Gopikrishna-05/FOREVER)  
+Gopi Krishna - [Github Profile](https://github.com/Gopikrishna-05/PRESCRIPTO)  
 
 ## License  
 

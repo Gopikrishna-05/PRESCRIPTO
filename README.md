@@ -24,7 +24,7 @@ This full stack appointment booking system can be used by a doctor or a hospital
 
 - Admin can monitor all appointments and activity   
 
-## Admin Dashboard:
+## Admin Dashboard
 
 - Displays appointment statistics
 
@@ -32,11 +32,14 @@ This full stack appointment booking system can be used by a doctor or a hospital
 
 - Tracks payments and revenue
 
-- **Payment Integration**:Supports Razorpay for secure transactions.  
+ ## Payment Integration 
+ - Supports Razorpay for secure transactions.  
 
-- **Image Uploads**:Uses Cloudinary and Multer for efficient image storage and handling.  
+## Image Uploads
+- Uses Cloudinary and Multer for efficient image storage and handling.  
 
-- **Deployment**:Fully deployed on Vercel for easy access.  
+## Deployment
+- Fully deployed on Vercel for easy access.  
 
 ## Project Structure  
 

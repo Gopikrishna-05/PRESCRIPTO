@@ -40,6 +40,11 @@ const Navbar = () => {
           <li className="py-1">CONTACT</li>
           <hr className="border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden" />
         </NavLink>
+         <li className="flex flex-col items-center gap-1 mt-1 text-xs">
+             <a href="https://prescripto-admin-coral.vercel.app/" target="_blank" rel="noopener noreferrer" className="border px-5 text-xs py-1 rounded-full -mt-2">
+                <p className='mt-1'>Admin Panel</p>
+          </a>
+          </li>
       </ul>
       <div className="flex items-center gap-4">
         {token && userData ? (
